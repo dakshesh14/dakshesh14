@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am currently looking for SDE role. I am interest in building SaaS products.
+I am currently looking for SDE role. I am interested in building SaaS products.
 
 - 🎓 I'm also a student at SSIPMT.
 - 📫 How to reach me: 
