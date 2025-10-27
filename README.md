@@ -8,7 +8,8 @@ I build reliable, performant software across the stack — from scalable backend
 - 🤝 Contributions to open-source projects:  
   - [Plane](https://github.com/makeplane/plane/pulls?q=is%3Apr+author%3Adakshesh14+is%3Aclosed) – project management platform (UI and workflow improvements)  
   - [Huly](https://github.com/hcengineering/platform/pulls?q=is%3Apr+author%3Adakshesh14+is%3Aclosed) – project management and collaboration suite (bug fixes, feature enhancements)  
-  - [Omarchy](https://github.com/basecamp/omarchy/pulls?q=is%3Apr+author%3Adakshesh14+is%3Aclosed) – Arch/Hyprland setup tooling (bug fixes)  
+  - [Omarchy](https://github.com/basecamp/omarchy/pulls?q=is%3Apr+author%3Adakshesh14+is%3Aclosed) – Arch/Hyprland setup tooling (bug fixes)
+  - [Omarchy-iso](https://github.com/omacom-io/omarchy-iso/pulls?q=is%3Apr+author%3Adakshesh14+is%3Aclosed) - ISO media for installing omarchy
   - [SuiteNumérique Docs](https://github.com/suitenumerique/docs/pulls?q=is%3Apr+is%3Aclosed+author%3Adakshesh14) – collaborative note-taking app (documentation and feature updates)  
 
 🧠 **Technical Breadth**
