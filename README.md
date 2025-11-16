@@ -14,7 +14,7 @@ I build reliable, performant software across the stack — from scalable backend
 
 🧠 **Technical Breadth**
 - **Frontend:** React, Next.js, TypeScript, TailwindCSS, Redux  
-- **Backend:** Node.js, .Net, Django, FastAPI, Rust  
+- **Backend:** .Net, Django, FastAPI, Rust, Node.js
 - **Databases:** PostgreSQL, Redis, MongoDB, MS-SQL
 - **DevOps & Tools:** Docker, Nginx, GitHub Actions, Linux, Bash, CI/CD  
 - **Cloud & Infra:** AWS (EC2, S3), DigitalOcean, Cloudflare  
